@@ -7,7 +7,7 @@ function deleteLast() {
     display.value = display.value.slice(0, -1);
 }
 
-function appendNumber(number) {
+function inputnomor(number) {
     document.getElementById("display").value += number;
 }
 
